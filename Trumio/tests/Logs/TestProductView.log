@@ -1,0 +1,124 @@
+08/20/2024 06:58:21 PM - setup - INFO - Starting the test_product_click test.
+08/20/2024 06:58:21 PM - setup - INFO - Testing username: standard_user
+08/20/2024 06:58:23 PM - setup - INFO - Same product gets opened after clicking - Sauce Labs Bike Light
+08/20/2024 06:58:25 PM - setup - ERROR - strMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E4C77012+3522402]
+	(No symbol) [0x00007FF6E4898352]
+	(No symbol) [0x00007FF6E4745ABB]
+	(No symbol) [0x00007FF6E472287C]
+	(No symbol) [0x00007FF6E47B5D97]
+	(No symbol) [0x00007FF6E47CB3CF]
+	(No symbol) [0x00007FF6E47AEE03]
+	(No symbol) [0x00007FF6E477F4D4]
+	(No symbol) [0x00007FF6E47805F1]
+	GetHandleVerifier [0x00007FF6E4CA9B9D+3730157]
+	GetHandleVerifier [0x00007FF6E4CFF02D+4079485]
+	GetHandleVerifier [0x00007FF6E4CF75D3+4048163]
+	GetHandleVerifier [0x00007FF6E49CA649+718233]
+	(No symbol) [0x00007FF6E48A4A3F]
+	(No symbol) [0x00007FF6E489FA94]
+	(No symbol) [0x00007FF6E489FBC2]
+	(No symbol) [0x00007FF6E488F2E4]
+	BaseThreadInitThunk [0x00007FF95AC1257D+29]
+	RtlUserThreadStart [0x00007FF95BC4AF28+40]
+
+08/20/2024 06:58:27 PM - setup - ERROR - strMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E4C77012+3522402]
+	(No symbol) [0x00007FF6E4898352]
+	(No symbol) [0x00007FF6E4745ABB]
+	(No symbol) [0x00007FF6E472287C]
+	(No symbol) [0x00007FF6E47B5D97]
+	(No symbol) [0x00007FF6E47CB3CF]
+	(No symbol) [0x00007FF6E47AEE03]
+	(No symbol) [0x00007FF6E477F4D4]
+	(No symbol) [0x00007FF6E47805F1]
+	GetHandleVerifier [0x00007FF6E4CA9B9D+3730157]
+	GetHandleVerifier [0x00007FF6E4CFF02D+4079485]
+	GetHandleVerifier [0x00007FF6E4CF75D3+4048163]
+	GetHandleVerifier [0x00007FF6E49CA649+718233]
+	(No symbol) [0x00007FF6E48A4A3F]
+	(No symbol) [0x00007FF6E489FA94]
+	(No symbol) [0x00007FF6E489FBC2]
+	(No symbol) [0x00007FF6E488F2E4]
+	BaseThreadInitThunk [0x00007FF95AC1257D+29]
+	RtlUserThreadStart [0x00007FF95BC4AF28+40]
+
+08/20/2024 06:58:29 PM - setup - ERROR - strMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E4C77012+3522402]
+	(No symbol) [0x00007FF6E4898352]
+	(No symbol) [0x00007FF6E4745ABB]
+	(No symbol) [0x00007FF6E472287C]
+	(No symbol) [0x00007FF6E47B5D97]
+	(No symbol) [0x00007FF6E47CB3CF]
+	(No symbol) [0x00007FF6E47AEE03]
+	(No symbol) [0x00007FF6E477F4D4]
+	(No symbol) [0x00007FF6E47805F1]
+	GetHandleVerifier [0x00007FF6E4CA9B9D+3730157]
+	GetHandleVerifier [0x00007FF6E4CFF02D+4079485]
+	GetHandleVerifier [0x00007FF6E4CF75D3+4048163]
+	GetHandleVerifier [0x00007FF6E49CA649+718233]
+	(No symbol) [0x00007FF6E48A4A3F]
+	(No symbol) [0x00007FF6E489FA94]
+	(No symbol) [0x00007FF6E489FBC2]
+	(No symbol) [0x00007FF6E488F2E4]
+	BaseThreadInitThunk [0x00007FF95AC1257D+29]
+	RtlUserThreadStart [0x00007FF95BC4AF28+40]
+
+08/20/2024 06:58:31 PM - setup - ERROR - strMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E4C77012+3522402]
+	(No symbol) [0x00007FF6E4898352]
+	(No symbol) [0x00007FF6E4745ABB]
+	(No symbol) [0x00007FF6E472287C]
+	(No symbol) [0x00007FF6E47B5D97]
+	(No symbol) [0x00007FF6E47CB3CF]
+	(No symbol) [0x00007FF6E47AEE03]
+	(No symbol) [0x00007FF6E477F4D4]
+	(No symbol) [0x00007FF6E47805F1]
+	GetHandleVerifier [0x00007FF6E4CA9B9D+3730157]
+	GetHandleVerifier [0x00007FF6E4CFF02D+4079485]
+	GetHandleVerifier [0x00007FF6E4CF75D3+4048163]
+	GetHandleVerifier [0x00007FF6E49CA649+718233]
+	(No symbol) [0x00007FF6E48A4A3F]
+	(No symbol) [0x00007FF6E489FA94]
+	(No symbol) [0x00007FF6E489FBC2]
+	(No symbol) [0x00007FF6E488F2E4]
+	BaseThreadInitThunk [0x00007FF95AC1257D+29]
+	RtlUserThreadStart [0x00007FF95BC4AF28+40]
+
+08/20/2024 06:58:33 PM - setup - ERROR - strMessage: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E4C77012+3522402]
+	(No symbol) [0x00007FF6E4898352]
+	(No symbol) [0x00007FF6E4745ABB]
+	(No symbol) [0x00007FF6E472287C]
+	(No symbol) [0x00007FF6E47B5D97]
+	(No symbol) [0x00007FF6E47CB3CF]
+	(No symbol) [0x00007FF6E47AEE03]
+	(No symbol) [0x00007FF6E477F4D4]
+	(No symbol) [0x00007FF6E47805F1]
+	GetHandleVerifier [0x00007FF6E4CA9B9D+3730157]
+	GetHandleVerifier [0x00007FF6E4CFF02D+4079485]
+	GetHandleVerifier [0x00007FF6E4CF75D3+4048163]
+	GetHandleVerifier [0x00007FF6E49CA649+718233]
+	(No symbol) [0x00007FF6E48A4A3F]
+	(No symbol) [0x00007FF6E489FA94]
+	(No symbol) [0x00007FF6E489FBC2]
+	(No symbol) [0x00007FF6E488F2E4]
+	BaseThreadInitThunk [0x00007FF95AC1257D+29]
+	RtlUserThreadStart [0x00007FF95BC4AF28+40]
+
+08/20/2024 06:58:39 PM - setup - INFO - Finished the test_product_click test.

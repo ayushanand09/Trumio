@@ -1,0 +1,44 @@
+08/20/2024 07:12:43 PM - setup - INFO - Starting the test_product_click test.
+08/20/2024 07:12:43 PM - setup - INFO - Testing username: standard_user
+08/20/2024 07:12:45 PM - setup - INFO - Product 'Bike Light' was successfully clicked.
+08/20/2024 07:12:47 PM - setup - INFO - Product 'Black T-Shirt' was successfully clicked.
+08/20/2024 07:12:49 PM - setup - INFO - Product 'Onesie' was successfully clicked.
+08/20/2024 07:12:51 PM - setup - INFO - Product 'Red T-Shirt' was successfully clicked.
+08/20/2024 07:12:53 PM - setup - INFO - Product 'Backpack' was successfully clicked.
+08/20/2024 07:12:56 PM - setup - INFO - Product 'Jacket' was successfully clicked.
+08/20/2024 07:13:02 PM - setup - INFO - Finished the test_product_click test.
+08/20/2024 07:13:02 PM - setup - INFO - Testing username: locked_out_user
+08/20/2024 07:13:14 PM - setup - ERROR - Login failed for user: locked_out_user. Invalid credentials or locked user
+08/20/2024 07:13:22 PM - setup - INFO - Finished the test_product_click test.
+08/20/2024 07:13:22 PM - setup - INFO - Testing username: problem_user
+08/20/2024 07:13:24 PM - setup - INFO - Product 'Bike Light' was successfully clicked.
+08/20/2024 07:13:26 PM - setup - ERROR - Product 'Black T-Shirt' is not clickable.
+08/20/2024 07:13:28 PM - setup - INFO - Product 'Onesie' was successfully clicked.
+08/20/2024 07:13:30 PM - setup - ERROR - Product 'Red T-Shirt' is not clickable.
+08/20/2024 07:13:32 PM - setup - INFO - Product 'Backpack' was successfully clicked.
+08/20/2024 07:13:34 PM - setup - ERROR - Product 'Jacket' is not clickable.
+08/20/2024 07:13:45 PM - setup - INFO - Finished the test_product_click test.
+08/20/2024 07:13:45 PM - setup - INFO - Testing username: performance_glitch_user
+08/20/2024 07:13:52 PM - setup - INFO - Product 'Bike Light' was successfully clicked.
+08/20/2024 07:13:54 PM - setup - INFO - Product 'Black T-Shirt' was successfully clicked.
+08/20/2024 07:13:57 PM - setup - ERROR - Product 'Onesie' is not clickable.
+08/20/2024 07:14:00 PM - setup - ERROR - Product 'Red T-Shirt' is not clickable.
+08/20/2024 07:14:04 PM - setup - ERROR - Product 'Backpack' is not clickable.
+08/20/2024 07:14:06 PM - setup - INFO - Product 'Jacket' was successfully clicked.
+08/20/2024 07:14:17 PM - setup - INFO - Finished the test_product_click test.
+08/20/2024 07:14:17 PM - setup - INFO - Testing username: error_user
+08/20/2024 07:14:18 PM - setup - INFO - Product 'Bike Light' was successfully clicked.
+08/20/2024 07:14:20 PM - setup - ERROR - Product 'Black T-Shirt' is not clickable.
+08/20/2024 07:14:23 PM - setup - INFO - Product 'Onesie' was successfully clicked.
+08/20/2024 07:14:25 PM - setup - ERROR - Product 'Red T-Shirt' is not clickable.
+08/20/2024 07:14:27 PM - setup - INFO - Product 'Backpack' was successfully clicked.
+08/20/2024 07:14:29 PM - setup - ERROR - Product 'Jacket' is not clickable.
+08/20/2024 07:14:40 PM - setup - INFO - Finished the test_product_click test.
+08/20/2024 07:14:40 PM - setup - INFO - Testing username: visual_user
+08/20/2024 07:14:41 PM - setup - INFO - Product 'Bike Light' was successfully clicked.
+08/20/2024 07:14:43 PM - setup - INFO - Product 'Black T-Shirt' was successfully clicked.
+08/20/2024 07:14:46 PM - setup - INFO - Product 'Onesie' was successfully clicked.
+08/20/2024 07:14:48 PM - setup - INFO - Product 'Red T-Shirt' was successfully clicked.
+08/20/2024 07:14:50 PM - setup - INFO - Product 'Backpack' was successfully clicked.
+08/20/2024 07:14:52 PM - setup - INFO - Product 'Jacket' was successfully clicked.
+08/20/2024 07:15:03 PM - setup - INFO - Finished the test_product_click test.

@@ -1,0 +1,8 @@
+08/20/2024 06:56:44 PM - setup - INFO - Starting the test_details test.
+08/20/2024 06:56:44 PM - setup - INFO - Testing username: standard_user
+08/20/2024 06:56:46 PM - setup - INFO - Opened Cart
+08/20/2024 06:56:46 PM - setup - INFO - First name data successfully entered
+08/20/2024 06:56:46 PM - setup - INFO - Last name data successfully entered
+08/20/2024 06:56:46 PM - setup - INFO - Zipcode data successfully entered
+08/20/2024 06:56:47 PM - setup - INFO - Entire checkout functionality is correct.
+08/20/2024 06:56:51 PM - setup - INFO - Finished the test_details test.

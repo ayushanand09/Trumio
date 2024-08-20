@@ -1,0 +1,5 @@
+08/20/2024 06:56:14 PM - setup - INFO - Starting the test_all_items test.
+08/20/2024 06:56:14 PM - setup - INFO - Testing username: standard_user
+08/20/2024 06:56:15 PM - setup - INFO - Clicked on hamburger icon
+08/20/2024 06:56:17 PM - setup - INFO - All Items functionality is working.
+08/20/2024 06:56:22 PM - setup - INFO - Finished the test_reset_state test.

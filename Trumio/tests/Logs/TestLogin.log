@@ -1,0 +1,23 @@
+08/20/2024 07:10:05 PM - setup - INFO - Testing username: standard_user
+08/20/2024 07:10:06 PM - setup - INFO - Login successful for user: standard_user
+08/20/2024 07:10:06 PM - setup - INFO - No glitch detected. Login completed in 0.60 seconds.
+08/20/2024 07:10:06 PM - setup - INFO - Finished the test_login test.
+08/20/2024 07:10:06 PM - setup - INFO - Testing username: locked_out_user
+08/20/2024 07:10:17 PM - setup - ERROR - Login failed for user: locked_out_user. Invalid credentials or locked user
+08/20/2024 07:10:17 PM - setup - INFO - Finished the test_login test.
+08/20/2024 07:10:17 PM - setup - INFO - Testing username: problem_user
+08/20/2024 07:10:18 PM - setup - INFO - Login successful for user: problem_user
+08/20/2024 07:10:18 PM - setup - INFO - No glitch detected. Login completed in 1.08 seconds.
+08/20/2024 07:10:18 PM - setup - INFO - Finished the test_login test.
+08/20/2024 07:10:18 PM - setup - INFO - Testing username: performance_glitch_user
+08/20/2024 07:10:24 PM - setup - INFO - Login successful for user: performance_glitch_user
+08/20/2024 07:10:24 PM - setup - WARNING - Potential glitch detected. Login took 5.43 seconds.
+08/20/2024 07:10:24 PM - setup - INFO - Finished the test_login test.
+08/20/2024 07:10:24 PM - setup - INFO - Testing username: error_user
+08/20/2024 07:10:24 PM - setup - INFO - Login successful for user: error_user
+08/20/2024 07:10:24 PM - setup - INFO - No glitch detected. Login completed in 0.52 seconds.
+08/20/2024 07:10:24 PM - setup - INFO - Finished the test_login test.
+08/20/2024 07:10:24 PM - setup - INFO - Testing username: visual_user
+08/20/2024 07:10:25 PM - setup - INFO - Login successful for user: visual_user
+08/20/2024 07:10:25 PM - setup - INFO - No glitch detected. Login completed in 0.80 seconds.
+08/20/2024 07:10:25 PM - setup - INFO - Finished the test_login test.

@@ -1,0 +1,58 @@
+08/20/2024 05:15:21 PM - setup - INFO - Starting the test_sorting test.
+08/20/2024 05:15:21 PM - setup - INFO - Testing username: standard_user
+08/20/2024 05:15:25 PM - setup - INFO - Sorting Z to A is working correctly
+08/20/2024 05:15:28 PM - setup - INFO - Sorting low to high is working correctly
+08/20/2024 05:15:30 PM - setup - INFO - Sorting high to low is working correctly
+08/20/2024 05:15:35 PM - setup - INFO - Finished the test_sorting test.
+08/20/2024 05:15:35 PM - setup - INFO - Testing username: locked_out_user
+08/20/2024 05:15:47 PM - setup - ERROR - Login failed for user: locked_out_user. Invalid credentials or locked user
+08/20/2024 05:15:55 PM - setup - INFO - Finished the test_sorting test.
+08/20/2024 05:15:55 PM - setup - INFO - Testing username: problem_user
+08/20/2024 05:15:59 PM - setup - ERROR - Sorting Z to A is not working correctly
+08/20/2024 05:15:59 PM - setup - INFO - expected_product_names -> ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+08/20/2024 05:15:59 PM - setup - INFO - actual_product_names -> ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+08/20/2024 05:16:02 PM - setup - ERROR - Sorting low to high is not working correctly
+08/20/2024 05:16:02 PM - setup - INFO - expected_product_prices -> ['7.99', '9.99', '15.99', '15.99', '29.99', '49.99']
+08/20/2024 05:16:02 PM - setup - INFO - actual_product_prices -> ['29.99', '9.99', '15.99', '49.99', '7.99', '15.99']
+08/20/2024 05:16:04 PM - setup - ERROR - Sorting high to low is not working correctly
+08/20/2024 05:16:04 PM - setup - INFO - expected_product_prices -> ['49.99', '29.99', '15.99', '15.99', '9.99', '7.99']
+08/20/2024 05:16:04 PM - setup - INFO - actual_product_prices -> ['29.99', '9.99', '15.99', '49.99', '7.99', '15.99']
+08/20/2024 05:16:12 PM - setup - INFO - Finished the test_sorting test.
+08/20/2024 05:16:12 PM - setup - INFO - Testing username: performance_glitch_user
+08/20/2024 05:16:26 PM - setup - INFO - Sorting Z to A is working correctly
+08/20/2024 05:16:34 PM - setup - INFO - Sorting low to high is working correctly
+08/20/2024 05:16:41 PM - setup - INFO - Sorting high to low is working correctly
+08/20/2024 05:16:50 PM - setup - INFO - Finished the test_sorting test.
+08/20/2024 05:16:50 PM - setup - INFO - Testing username: error_user
+08/20/2024 05:16:54 PM - setup - ERROR - An error occurred: Alert Text: Sorting is broken! This error has been reported to Backtrace.
+Message: unexpected alert open: {Alert text : Sorting is broken! This error has been reported to Backtrace.}
+  (Session info: chrome=121.0.6167.185)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A5DC7012+3522402]
+	(No symbol) [0x00007FF7A59E8352]
+	(No symbol) [0x00007FF7A5895ABB]
+	(No symbol) [0x00007FF7A591C522]
+	(No symbol) [0x00007FF7A58FEE03]
+	(No symbol) [0x00007FF7A58CF4D4]
+	(No symbol) [0x00007FF7A58D05F1]
+	GetHandleVerifier [0x00007FF7A5DF9B9D+3730157]
+	GetHandleVerifier [0x00007FF7A5E4F02D+4079485]
+	GetHandleVerifier [0x00007FF7A5E475D3+4048163]
+	GetHandleVerifier [0x00007FF7A5B1A649+718233]
+	(No symbol) [0x00007FF7A59F4A3F]
+	(No symbol) [0x00007FF7A59EFA94]
+	(No symbol) [0x00007FF7A59EFBC2]
+	(No symbol) [0x00007FF7A59DF2E4]
+	BaseThreadInitThunk [0x00007FF95AC1257D+29]
+	RtlUserThreadStart [0x00007FF95BC4AF28+40]
+
+08/20/2024 05:17:03 PM - setup - INFO - Finished the test_sorting test.
+08/20/2024 05:17:03 PM - setup - INFO - Testing username: visual_user
+08/20/2024 05:17:07 PM - setup - INFO - Sorting Z to A is working correctly
+08/20/2024 05:17:09 PM - setup - ERROR - Sorting low to high is not working correctly
+08/20/2024 05:17:09 PM - setup - INFO - expected_product_prices -> ['7.99', '9.99', '15.99', '15.99', '29.99', '49.99']
+08/20/2024 05:17:09 PM - setup - INFO - actual_product_prices -> ['64.06', '90.11', '9.09', '72.1', '30.69', '38.52']
+08/20/2024 05:17:11 PM - setup - ERROR - Sorting high to low is not working correctly
+08/20/2024 05:17:11 PM - setup - INFO - expected_product_prices -> ['49.99', '29.99', '15.99', '15.99', '9.99', '7.99']
+08/20/2024 05:17:11 PM - setup - INFO - actual_product_prices -> ['18.62', '0.74', '74.57', '48.37', '78.21', '95.17']
+08/20/2024 05:17:20 PM - setup - INFO - Finished the test_sorting test.

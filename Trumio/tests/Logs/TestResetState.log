@@ -1,0 +1,5 @@
+08/20/2024 06:59:02 PM - setup - INFO - Starting the test_reset_state test.
+08/20/2024 06:59:02 PM - setup - INFO - Testing username: standard_user
+08/20/2024 06:59:03 PM - setup - INFO - Product 'Backpack' was successfully clicked.
+08/20/2024 06:59:03 PM - setup - INFO - Clicked on hamburger icon
+08/20/2024 06:59:05 PM - setup - INFO - Reset State functionality is working
