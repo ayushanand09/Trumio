@@ -33,14 +33,6 @@ To ensure code maintainability and clarity, the project is organized into a stru
 
 Log files are generated for each test case, recording detailed execution logs. These logs are stored in the `Logs` folder and help in diagnosing test failures.
 
-### HTML Reports
-
-HTML reports provide a visual representation of the test results. These reports are generated using the `pytest-html` plugin. To generate an HTML report, execute the following command:
-```bash
-pytest --html=<report_name>.html --self-contained-html
-```
-This command will create an HTML report in the current working directory.
-
 ### Running Selected Test Suites
 
 The `run_selected_suites.py` script enables running specific test suites or test cases, which is helpful when dealing with a large number of tests. The test suites to be executed are defined in the `suite_config.json` file.
