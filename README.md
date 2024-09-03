@@ -1,4 +1,4 @@
-# Trumio: Selenium Automation for SauceDemo Application
+# Trumio: Selenium Automation
 
 This README file provides a comprehensive overview of the Selenium-based automation project for testing the SauceDemo application. The project covers various test scenarios, including login functionality, product interactions, sorting, the checkout process, and navbar features.
 
